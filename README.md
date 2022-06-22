@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @traincrisis
+- 👋 Hi, I’m @traincrisis on scratch!
 - 👀 I’m interested in scratch and trains
-- 🌱 I’m currently learning scratch
+- 🌱 I’m currently learning the scratchʼs editor
 - 💞️ I’m looking to collaborate on scratch
-- 📫 How to reach me so very hard
-
-<!---
-traincrisis/traincrisis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: possible too easy
