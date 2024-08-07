@@ -1,5 +1,5 @@
-- 👋 Hi, I’m railroad_crossing__ on scratch!
-- 👀 I’m interested in scratch and trains
-- 🌱 I’m currently learning the scratchʼs editor
-- 💞️ I’m looking to collaborate on scratch
-- 📫 How to reach me: possible too easy
+-  Hi, I’m ThePullerCell (aka traincrisis)
+-  I’m interested in coding
+-  I’m currently learning Lua
+- ️ I’m looking to collaborate on GitHub
+-  How to contact me: Email dkolyadko77@gmail.com 
